@@ -18,9 +18,9 @@ ReactDOM.render(
       fungsi3="fungsi penjumlahan"
     />
     <Kelas Kelas="pyhton" />
-    <img src="" alt="Python.logo" />
+    <img src="./asset/img/python.png" alt="Python.logo" />
     <Kelas Kelas="Css" />
-    <img src="" alt="Css.logo" />
+    <img src="./asset/img/react.js" alt="React.logo" />
   </React.StrictMode>,
   rootElement
 );
